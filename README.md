@@ -1,4 +1,4 @@
-#  ![alt text](/icon/image/logo.png)Oversea-E-commerce
+#  ![alt text](/icon/image/logo.png){:height="200px" width="200px"}Oversea-E-commerce
 <p>Focus the Oversea learning and research.<p>
 <a href='/Users/limengjiao/Desktop/Oversea-E-commerce/pages/Writer-page/index.html'><p>Writer：Florencelee<p><a>
 <a href='/Users/limengjiao/Desktop/Oversea-E-commerce/pages/Learning-notes/index.html'><p>Learning Notes<p><a>
